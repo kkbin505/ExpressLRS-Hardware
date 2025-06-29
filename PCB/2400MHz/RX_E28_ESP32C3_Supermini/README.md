@@ -3,7 +3,8 @@
 ## 🚀 The Easiest DIY ExpressLRS Receiver in the World
 
 This project is **super easy to make** and **ultra low cost**.  
-You only need **two modules** — no SMD soldering, no extra components, no fuss:
+You only need **two modules** — no SMD soldering, no extra components
+No FTDI needed, use type-C integrated:
 
 - 🧠 **ESP32-C3 SuperMini**
 - 📡 **E28 2.4GHz LoRa Module (SX1280)**
@@ -49,3 +50,8 @@ You can hand made use this wiring diagram, or use PCB below
 * ESP32-C3 Super Mini
 * Ebyte E282G4M12S Module
 
+## Flashing
+
+Plug in usb cable to computer, use web-flasher, choose BAYCKRC 2.4G ESP32-C3 RX
+
+![image](https://github.com/user-attachments/assets/e8b2ca33-af9f-4754-87e6-f21ab62a8a76)
