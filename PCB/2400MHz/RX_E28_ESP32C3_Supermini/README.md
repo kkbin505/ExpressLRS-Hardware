@@ -21,9 +21,20 @@ Just solder these two modules on a PCB, flash the firmware, and you have a worki
 * Use ESP32-C3 Supermini developerment board (LDO, LED already solded)
 * 2.4G LORA Module E28
 
+### Wiring Diagram
+
+You can hand made use this wiring diagram, or use PCB below
+
+<img src="https://github.com/kkbin505/ExpressLRS-Hardware/blob/ESP32C3_Supermini/img/ESP32_C3_Supermini_RX/ESP32_C3_RX_wire.jpg?raw=true" alt="ESP32-C3 RX Wiring" width="600">
+
 ## Editing
 
-* The PCB has been developed in EasyEDA. 
+* The PCB has been developed in EasyEDA.
+<img src="https://github.com/kkbin505/ExpressLRS-Hardware/blob/ESP32C3_Supermini/img/ESP32_C3_Supermini_RX/ESP32_C3_RX_PCB.jpg?raw=true" alt="ESP32-C3 RX PCB" width="600">
+
+### Schematic
+
+<img src="https://github.com/kkbin505/ExpressLRS-Hardware/blob/ESP32C3_Supermini/img/ESP32_C3_Supermini_RX/ESP32_C3_Schematic.jpg?raw=true" alt="ESP32-C3 Receiver Schematic" width="600">
 
 ## Ordering
 
