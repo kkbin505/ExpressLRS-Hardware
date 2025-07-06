@@ -31,6 +31,7 @@ You can hand made use this wiring diagram, or use PCB below
 ## Editing
 
 * The PCB has been developed in EasyEDA.
+  
 <img src="img/ESP32_C3_RX_PCB_Top.jpg" alt="ESP32-C3 RX Wiring" width="300">   <img src="img/ESP32_C3_RX_PCB_2layper.jpg" alt="ESP32-C3 RX Wiring" width="300">
 
 ### Schematic
