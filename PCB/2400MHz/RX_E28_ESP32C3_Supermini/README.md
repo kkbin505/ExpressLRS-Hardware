@@ -57,3 +57,7 @@ You can hand made use this wiring diagram, or use PCB below
 Plug in usb cable to computer, use web-flasher, choose BAYCKRC 2.4G ESP32-C3 RX
 
 ![image](https://github.com/user-attachments/assets/e8b2ca33-af9f-4754-87e6-f21ab62a8a76)
+
+## RX
+
+<img src="img/RX.jpg" width="600">
