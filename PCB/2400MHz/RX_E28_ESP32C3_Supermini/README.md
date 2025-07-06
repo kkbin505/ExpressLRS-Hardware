@@ -26,16 +26,18 @@ Just solder these two modules on a PCB, flash the firmware, and you have a worki
 
 You can hand made use this wiring diagram, or use PCB below
 
-<img src="https://github.com/kkbin505/ExpressLRS-Hardware/blob/ESP32C3_Supermini/img/ESP32_C3_Supermini_RX/ESP32_C3_RX_wire.jpg?raw=true" alt="ESP32-C3 RX Wiring" width="600">
+<img src="PCB/2400MHz/RX_E28_ESP32C3_Supermini/img/ESP32_C3_RX_wire.jpg" alt="ESP32-C3 RX Wiring" width="600">
 
 ## Editing
 
 * The PCB has been developed in EasyEDA.
-<img src="https://github.com/kkbin505/ExpressLRS-Hardware/blob/ESP32C3_Supermini/img/ESP32_C3_Supermini_RX/ESP32_C3_RX_PCB.jpg?raw=true" alt="ESP32-C3 RX PCB" width="600">
+<img src="img/ESP32_C3_RX_PCB_Top.jpg" alt="ESP32-C3 RX Wiring" width="300">
+
+<img src="img/ESP32_C3_RX_PCB_2layper.jpg" alt="ESP32-C3 RX Wiring" width="300">
 
 ### Schematic
 
-<img src="https://github.com/kkbin505/ExpressLRS-Hardware/blob/ESP32C3_Supermini/img/ESP32_C3_Supermini_RX/ESP32_C3_Schematic.jpg?raw=true" alt="ESP32-C3 Receiver Schematic" width="600">
+<img src="img/ESP32_C3_Schematic_1.jpg" width="600">
 
 ## Ordering
 
