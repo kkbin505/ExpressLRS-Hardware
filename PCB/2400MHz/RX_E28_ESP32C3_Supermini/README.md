@@ -12,7 +12,9 @@ No FTDI needed, use type-C integrated:
 Just solder these two modules on a PCB, flash the firmware, and you have a working ExpressLRS 2.4GHz receiver!
 
 ---
+## Video
 
+https://youtu.be/4iFyOv_jBPY?si=ccF2sKkLWnAkUwgd
 
 ## Features
 
@@ -43,10 +45,6 @@ You can hand made use this wiring diagram, or use PCB below
 
 * I've had good results using JLCPCB.
 
-## Build
-
-* Build should be self-explanatory soleing ESP32 and E28 in different side of the PCB.
-
 ## BOM
 
 * ESP32-C3 Super Mini
@@ -58,6 +56,30 @@ Plug in usb cable to computer, use web-flasher, choose BAYCKRC 2.4G ESP32-C3 RX
 
 ![image](https://github.com/user-attachments/assets/e8b2ca33-af9f-4754-87e6-f21ab62a8a76)
 
+## Config
+
+Change output 5 and 6 to Serial RX & TX
+
+goto 10.0.0.1/hardware.html
+
+RGBLED to none
+LED pin to 8
+RED LED pin to 8
+Check RED LED inverted
+
+![alt text](image.png)
+
+
 ## RX
 
 <img src="img/RX.jpg" width="600">
+
+## Resources
+
+E28 datasheet
+https://www.cdebyte.com/pdf-down.aspx?id=2264
+
+ESP32-C3 datasheet
+https://www.espressif.com/sites/default/files/documentation/esp32-c3_datasheet_en.pdf
+
+
