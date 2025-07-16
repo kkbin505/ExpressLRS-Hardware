@@ -28,14 +28,13 @@ https://youtu.be/4iFyOv_jBPY?si=ccF2sKkLWnAkUwgd
 
 You can hand made use this wiring diagram, or use PCB below
 
-<img src="PCB/2400MHz/RX_E28_ESP32C3_Supermini/img/ESP32_C3_RX_wire.jpg" alt="ESP32-C3 RX Wiring" width="600">
+<img src="img/ESP32_C3_RX_wire.jpg" alt="ESP32-C3 RX Wiring" width="600">
 
 ## Editing
 
 * The PCB has been developed in EasyEDA.
-<img src="img/ESP32_C3_RX_PCB_Top.jpg" alt="ESP32-C3 RX Wiring" width="300">
-
-<img src="img/ESP32_C3_RX_PCB_2layper.jpg" alt="ESP32-C3 RX Wiring" width="300">
+  
+<img src="img/ESP32_C3_RX_PCB_Top.jpg" alt="ESP32-C3 RX Wiring" width="300">   <img src="img/ESP32_C3_RX_PCB_2layper.jpg" alt="ESP32-C3 RX Wiring" width="300">
 
 ### Schematic
 
@@ -73,6 +72,7 @@ Check RED LED inverted
 ## RX
 
 <img src="img/RX.jpg" width="600">
+<<<<<<< HEAD
 
 ## Resources
 
@@ -83,3 +83,5 @@ ESP32-C3 datasheet
 https://www.espressif.com/sites/default/files/documentation/esp32-c3_datasheet_en.pdf
 
 
+=======
+>>>>>>> cb007112ee4e6174a68fdcb63059d0fb015118df
